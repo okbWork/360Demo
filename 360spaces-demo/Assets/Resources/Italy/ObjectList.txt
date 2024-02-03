@@ -1,0 +1,5 @@
+Id,Area,Filetype,Filepath
+0,i,i,Assets/Resources/Italy/R0010094_20220616095700.JPG
+1,i,t,Assets/Resources/Italy/objectText1.txt
+2,i,t,Assets/Resources/Italy/objectText2.txt
+3,i,t,Assets/Resources/Italy/objectText3.txt
